@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectPerspective</string>
+    <string name="app_title">Project\nPerspective</string>
+
+    <string name="button_main_activity_play">Lancer</string>
+    <string name="button_main_activity_subtitle">Crée par Olivier LESAGE</string>
+
+    <string name="dialog_ok">ok</string>
+    <string name="dialog_server_prolem">Il semblerait qu\'il y ai un problème avec le serveur.</string>
+    <string name="dialog_internet_prolem">Veuillez vérifier votre connexion internet.</string>
+
+</resources>
